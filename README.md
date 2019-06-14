@@ -12,4 +12,6 @@
 | :--: | :--------------------------------------: | :--------: |
 |  简单  | [两数之和](https://github.com/lq773546837/algorithm/blob/master/1.md) | 2019.06.12 |
 |  简单  | [只出现一次的数字](https://github.com/lq773546837/algorithm/blob/master/2.md) | 2019.06.13 |
+|  简单  | [快乐数](https://github.com/lq773546837/algorithm/blob/master/3.md) | 2019.06.14 |
+|      |                                          |            |
 
